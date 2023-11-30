@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - you can reach to me through
-- linkedin link - www.linkedin.com/in/eshant-yadav
+- linkedin link - www.linkedin.com/in/eshant-yadav-25143928a
 - email - lovematrix9927@gmail.com
 - 
 - 

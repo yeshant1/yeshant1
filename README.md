@@ -6,10 +6,12 @@
 <!-- Animated Typing Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=⚡+Java+Full-Stack+Developer+%40+Capgemini%2C+Pune;🤖+Building+Agentic+AI+Pipelines+with+Spring+AI;🏗️+Domain-Driven+Design+%7C+Microservices+Architect" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=⚡+Java+Full-Stack+Developer+%40+Capgemini%2C+Pune;🤖+Building+Agentic+AI+Pipelines+with+Spring+AI;🏗️+Domain-Driven+Design+%7C+Microservices+Architect"
+      alt="Typing SVG"
+    />
   </a>
 </p>
-<br/>
 
 </div>
 

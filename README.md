@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003153,100:00F5FF&height=200&section=header&text=Eshant%20Yadav&fontSize=60&fontColor=00F5FF&fontAlignY=55&desc=Java%20Full-Stack%20%7C%20Agentic%20AI%20%7C%20Microservices%20Architect&descAlignY=75&descSize=18&descColor=FFFFFF&animation=twinkling)
 
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=⚡+Java+Full-Stack+Developer+%40+Capgemini%2C+Pune;🤖+Building+Agentic+AI+Pipelines+with+Spring+AI;🏗️+Domain-Driven+Design+%7C+Microservices+Architect;🚀+GenAI+%7C+LLM+Engineering+%7C+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=⚡+Java+Full-Stack+Developer+%40+Capgemini%2C+Pune;🤖+Building+Agentic+AI+Pipelines+with+Spring+AI;🏗️+Domain-Driven+Design+%7C+Microservices+Architect;)](https://git.io/typing-svg)
 
 <br/>
 

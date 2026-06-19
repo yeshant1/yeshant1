@@ -220,6 +220,9 @@ graph TD
 
 A full-stack, AI-integrated book marketplace featuring real-time payments, intelligent chatbot support, and role-based management — built using microservices architecture.Integrated MySQL for transactional data management and Cloudinary for storing and delivering book thumbnails, enabling efficient media handling and seamless content delivery.
 
+## 🚀 Architectural Visualizations
+
+```mermaid
 graph TD
     %% Styling
     classDef client fill:#05080E,stroke:#00f5ff,stroke-width:2px,color:#fff;
@@ -257,6 +260,7 @@ graph TD
     class DB database;
     class SpringAI,LLM ai;
     class Cloudinary,Razorpay external;
+```
 
 | Metric | Result |
 |---|---|

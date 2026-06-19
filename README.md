@@ -238,7 +238,7 @@ A full-stack, AI-integrated book marketplace featuring real-time payments, intel
 | 💳 **Payments** | Razorpay — real-time transactions for **500+ concurrent users** |
 | ⚡ **Performance** | **30% API response time improvement** via Spring Boot + query optimization |
 | 🤖 **AI Feature** | Spring AI chatbot — automated support responses & user engagement boost |
-| 👥 **Role System** | Admin · Seller · Buyer — 3 distinct dashboards with CRUD operations |
+| 👥 **Role System** | Admin · User · Purchase Master — 3 distinct dashboards with CRUD operations |
 | 📄 **API Coverage** | **15+ RESTful APIs** — Swagger documented + full Postman validation |
 | 🔐 **Security** | JWT-secured microservices with Spring Security |
 

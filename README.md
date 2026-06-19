@@ -12,6 +12,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yeshant1&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/yeshant1?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0D1117)](https://github.com/yeshant1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshant-yadav/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F5FF)](https://leetcode.com/u/yeshant1/)
 
 </div>
 
@@ -267,20 +268,6 @@ Driving the architectural transformation of a monolithic enterprise Java system 
 | 🛡️ **Anti-Corruption Layers** | Isolated legacy integrations — enabling incremental migration without disrupting production |
 | 🤝 **Cross-Team Collaboration** | Partnered with UI/UX, Product, and QA teams to validate domain models in Agile sprints |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yeshant1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&rank_icon=github&show=reviews,discussions_started,prs_merged" width="49%" />
-<img src="https://streak-stats.demolab.com?user=yeshant1&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF4081&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshant1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" width="40%" />
-
-</div>
-
----
 
 ## 🏆 Achievements · Certifications
 

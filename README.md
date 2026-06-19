@@ -8,12 +8,6 @@
 
 <br/>
 
-<!-- Profile Views | GitHub Followers | LinkedIn -->
-![Profile Views](https://komarev.com/ghpvc/?username=yeshant1&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/yeshant1?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0D1117)](https://github.com/yeshant1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshant-yadav/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F5FF)](https://leetcode.com/u/yeshant1/)
-
 </div>
 
 ---

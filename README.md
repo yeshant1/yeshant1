@@ -7,6 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=⚡+Java+Full-Stack+Developer+%40+Capgemini%2C+Pune;🤖+Building+Agentic+AI+Pipelines+with+Spring+AI;🏗️+Domain-Driven+Design+%7C+Microservices+Architect;🚀+GenAI+%7C+LLM+Engineering+%7C+Data+Science)](https://git.io/typing-svg)
 
 <br/>
+<br/>
+<br/>
+</div>
+
+<div>
 
 <!-- Profile Views | GitHub Followers | LinkedIn -->
 ![Profile Views](https://komarev.com/ghpvc/?username=yeshant1&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)

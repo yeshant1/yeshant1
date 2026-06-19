@@ -218,20 +218,45 @@ graph TD
 ### 📚 AI-Powered E-Commerce Bookstore — *Full-Stack GenAI Application*
 > `Sep 2025 – Dec 2025` &nbsp;|&nbsp; [`View Repository →`](https://github.com/yeshant1)
 
-A full-stack, AI-integrated book marketplace featuring real-time payments, intelligent chatbot support, and role-based management — built using microservices architecture.
+A full-stack, AI-integrated book marketplace featuring real-time payments, intelligent chatbot support, and role-based management — built using microservices architecture.Integrated MySQL for transactional data management and Cloudinary for storing and delivering book thumbnails, enabling efficient media handling and seamless content delivery.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                    APPLICATION FLOW                           │
-│                                                              │
-│  [React.js UI] ──► [Spring Boot API] ──► [Spring AI Agent]  │
-│        │                  │                      │           │
-│        │           [JWT Security]         [LLM Backend]      │
-│        │                  │                                  │
-│   [Razorpay]        [MySQL DB]          [AI Chatbot]         │
-│  (Real Payments)   (Optimized Queries)  (Auto Support)       │
-└──────────────────────────────────────────────────────────────┘
-```
+graph TD
+    %% Styling
+    classDef client fill:#05080E,stroke:#00f5ff,stroke-width:2px,color:#fff;
+    classDef gateway fill:#091220,stroke:#00f5ff,stroke-width:2px,color:#fff;
+    classDef microservice fill:#121824,stroke:#58a6ff,stroke-width:2px,color:#fff;
+    classDef database fill:#05080E,stroke:#388bfd,stroke-width:2px,color:#fff;
+    classDef ai fill:#1b2234,stroke:#bc8cff,stroke-width:2px,color:#fff;
+    classDef external fill:#092113,stroke:#39d353,stroke-width:2px,color:#fff;
+
+    Client[React.js Frontend] -->|HTTPS Requests| Gateway[Spring Cloud API Gateway]
+
+    Gateway -->|JWT Authentication| Security[Spring Security + JWT]
+
+    Security -->|Route| UserService[User Service]
+    Security -->|Route| BookService[Book Catalog Service]
+    Security -->|Route| OrderService[Order Service]
+    Security -->|Route| PaymentService[Payment Service]
+    Security -->|Route| ChatbotService[AI Chatbot Service]
+
+    UserService -->|JPA / Hibernate| DB[(MySQL Database)]
+    BookService -->|JPA / Hibernate| DB
+    OrderService -->|JPA / Hibernate| DB
+    PaymentService -->|JPA / Hibernate| DB
+
+    BookService -->|Store & Retrieve Images| Cloudinary[Cloudinary Storage]
+
+    PaymentService -->|Payment Processing| Razorpay[Razorpay Gateway]
+
+    ChatbotService -->|Spring AI| SpringAI[Spring AI Integration]
+    SpringAI -->|Prompt & Response| LLM[LLM Provider]
+
+    class Client client;
+    class Gateway,Security gateway;
+    class UserService,BookService,OrderService,PaymentService,ChatbotService microservice;
+    class DB database;
+    class SpringAI,LLM ai;
+    class Cloudinary,Razorpay external;
 
 | Metric | Result |
 |---|---|

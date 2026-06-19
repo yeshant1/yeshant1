@@ -3,15 +3,7 @@
 <!-- Dynamic Capsule Header -->
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003153,100:00F5FF&height=200&section=header&text=Eshant%20Yadav&fontSize=60&fontColor=00F5FF&fontAlignY=55&desc=Java%20Full-Stack%20%7C%20Agentic%20AI%20%7C%20Microservices%20Architect&descAlignY=75&descSize=18&descColor=FFFFFF&animation=twinkling)
 
-<!-- Animated Typing Banner -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=⚡+Java+Full-Stack+Developer+%40+Capgemini%2C+Pune;🤖+Building+Agentic+AI+Pipelines+with+Spring+AI;🏗️+Domain-Driven+Design+%7C+Microservices+Architect"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=%E2%9A%A1+Java+Full-Stack+Developer+%40+Capgemini%2C+Pune;%F0%9F%A4%96+Building+Agentic+AI+Pipelines+with+Spring+AI;%F0%9F%8F%97%EF%B8%8F+Domain-Driven+Design+%7C+Microservices+Architect)](https://git.io/typing-svg)
 
 </div>
 

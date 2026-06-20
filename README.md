@@ -66,7 +66,7 @@ public class EshantYadav implements FullStackDeveloper, AgenticAIBuilder {
 <td width="50%">
 
 **🎓 Academic & Achievements**
-- 📚 **MCA** — Lovely Professional University *(CGPA: 7.9)*
+- 📚 **MCA** — Lovely Professional University *(CGPA: 8)*
 - 🎓 **B.Sc. Computer Science** — Paliwal P.G. College
 - 🥇 **GATE 2023 — AIR 1519** (Mathematics)
 - ⭐ **5-Star HackerRank** in SQL

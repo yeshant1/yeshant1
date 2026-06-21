@@ -5,6 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=%E2%9A%A1+Java+Full-Stack+Developer+%40+Capgemini%2C+Pune;%F0%9F%A4%96+Building+Agentic+AI+Pipelines+with+Spring+AI;%F0%9F%8F%97%EF%B8%8F+Domain-Driven+Design+%7C+Microservices+Architect)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117)](https://yeshant1.netlify.app/)
+
+
+
 </div>
 
 ---
@@ -320,11 +324,13 @@ Driving the architectural transformation of a monolithic enterprise Java system 
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117)](https://yeshant1.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshant-yadav/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeshant1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshant.yadav7017@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/eshant_yadav7017)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F5FF)](https://leetcode.com/u/yeshant1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F5FF)](https://leetcode.com/u/yeshant1/)
+
 
 <br/>
 

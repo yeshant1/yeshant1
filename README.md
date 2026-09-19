@@ -16,7 +16,7 @@
 ```java
 /**
  * @author  Eshant Yadav
- * @company Capgemini Private Ltd, Pune
+ * @company Capgemini Private Ltd, Noida
  * @role    Software Engineer
  * @version 2025.CURRENT
  */
@@ -60,7 +60,7 @@ public class EshantYadav implements BackendDeveloper, AgenticAILearner {
 
 **🏢 Professional**
 - 💼 **Software Engineer Intern** @ **Capgemini, Bangalore** *(April 2025 – June 2026)*
-- 💼 **Software Engineer** @ **Capgemini, Pune** *(Jul 2025 – Present)*
+- 💼 **Software Engineer** @ **Capgemini, Noida** *(Jul 2025 – Present)*
 - 🏗️ Modernizing monolithic legacy apps → **Java Based Application Using DDD Architecture**
 - 🤖 Building **Agentic AI pipelines** with LLM APIs + Spring AI
 - 🔧 Refactored tightly coupled modules — improving maintainability & scalability

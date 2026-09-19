@@ -3,7 +3,7 @@
 <!-- Dynamic Capsule Header -->
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003153,100:00F5FF&height=200&section=header&text=Eshant%20Yadav&fontSize=60&fontColor=00F5FF&fontAlignY=55&desc=Software%20Engineer%20%7C%20Agentic%20AI%20Learner%20%7C%20Microservices%20Architect&descAlignY=75&descSize=18&descColor=FFFFFF&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=%E2%9A%A1+Software+Engineer+%40+Capgemini%2C+Pune;%F0%9F%8F%97%EF%B8%8F+Domain-Driven+Design+%7C+Microservices+Architect;%F0%9F%A4%96+Actively+Learner+towards+Agentic+AI;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=%E2%9A%A1+Software+Engineer+%40+Capgemini%2C+Noida;%F0%9F%8F%97%EF%B8%8F+Domain-Driven+Design+%7C+Microservices+Architect;%F0%9F%A4%96+Actively+Learner+towards+Agentic+AI;)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117)](https://yeshant1.netlify.app/)
 
